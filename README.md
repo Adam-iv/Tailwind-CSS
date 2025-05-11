@@ -1,3 +1,3 @@
-adam.
-ada,
-man.
+-adam.
+-ade.
+-wahyu.
