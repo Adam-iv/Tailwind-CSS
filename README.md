@@ -1,2 +1,4 @@
-1. Langkah pertama
-2. Langkah kedua
+- item 1
+- item 2
+- item3
+- item 4
