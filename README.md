@@ -1,4 +1,4 @@
-- **adam** agar lebih visual (misalnya: ✅ 🔥 🚀).
-- dari .
+-adam
+-ade
   ```markdown
   ![License](https://img.shields.io/badge/license-MIT-green)
