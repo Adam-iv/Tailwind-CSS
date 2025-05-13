@@ -18,8 +18,9 @@ Git adalah sebuah VCS terdistribusi untuk mengelola perubahan file atau reposito
    
 
        C.Apa fungsi dari Git?
-  Melacak dan mengelola perubahan pada kode sumber (source code) dalam proyek 
-  perangkat lunak,tetapi juga bisa digunakan untuk mengelola berbagai jenis file lainnya.
+
+     
+  Melacak dan mengelola perubahan pada kode sumber (source code) dalam proyek perangkat lunak,tetapi juga bisa digunakan untuk mengelola berbagai jenis file lainnya.
 
 2. **Github**
 
@@ -62,6 +63,7 @@ serta mendokumentasikan dan mengontrol perubahannya.
 
 
   . kode bisa diakses dari mana saja.
+
   
   . Tidak perlu menyimpan kode hanya di komputer lokal.
 
@@ -71,6 +73,8 @@ serta mendokumentasikan dan mengontrol perubahannya.
 
  . Github menyediakan issues,milestones, dan project board untuk mengatur tugas 
   dan fitur seperti trello.
+
+  
 5. integrasi DevOps
 
 
@@ -87,7 +91,7 @@ serta mendokumentasikan dan mengontrol perubahannya.
  . banyak proyek open-source besar (seperti react,node.js) di-host di github.
 
  
-8. Dokumentasi proyek
+7. Dokumentasi proyek
 
    
  . bisa menambahkan dokumentasi menggunakan file README.md,wiki,atau github pages
