@@ -25,8 +25,9 @@ Git adalah sebuah VCS terdistribusi untuk mengelola perubahan file atau reposito
 2. **Github**
 
     A.jelaskan apa itu Github?
-Github adalah sebuah platform online berbasis web yang digunakan oleh pengembang perangkat lunak untuk menyimpan dan mengelola kode
-serta mendokumentasikan dan mengontrol perubahannya.
+
+   
+Github adalah sebuah platform online berbasis web yang digunakan oleh pengembang perangkat lunak untuk menyimpan dan mengelola kode serta mendokumentasikan dan mengontrol perubahannya.
 
    B.Apa saja perintah dasar dari Git
 
