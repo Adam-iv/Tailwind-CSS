@@ -2,7 +2,7 @@
 
       A.jelaskan apa itu Git 
 
-Git adalah sebuah VCS terdistribusi untuk mengelola perubahan file atau repository suatu project,sistem memungkinkan para pengembang perangkat lunak untuk berkolaborasi secara efisien,melacak sejarah perubahan kode,serta kembali ke versi sebelumnya jika diperlukan.
+Git adalah sebuah VCS (Version Control System) terdistribusi untuk mengelola perubahan file atau repository suatu project,sistem memungkinkan para pengembang perangkat lunak untuk berkolaborasi secara efisien,melacak sejarah perubahan kode,serta kembali ke versi sebelumnya jika diperlukan.
 
 
       B.apa saja perintah dasar dari Git?
