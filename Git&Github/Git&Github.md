@@ -2,8 +2,7 @@
 
       A.jelaskan apa itu Git 
 
-Git adalah sebuah VCS terdistribusi untuk mengelola perubahan file atau repository suatu project.
-
+Git adalah sebuah VCS terdistribusi untuk mengelola perubahan file atau repository suatu project,sistem memungkinkan para pengembang perangkat lunak untuk berkolaborasi secara efisien,melacak sejarah perubahan kode,serta kembali ke versi sebelumnya jika diperlukan.
       B.apa saja perintah dasar dari Git?
  
   - a) commit: Untuk menyimpan perubahan ke dalam repositori versi lokal.
@@ -20,9 +19,26 @@ Git adalah sebuah VCS terdistribusi untuk mengelola perubahan file atau reposito
        C.Apa fungsi dari Git?
 
      
-  Melacak dan mengelola perubahan pada kode sumber (source code) dalam proyek perangkat lunak,tetapi juga bisa digunakan untuk mengelola berbagai jenis file lainnya.
+1. untuk berkolaborasi
+   -Memanfaatkan Git untuk mengerjakan proyek yang sama(kerja tim).
 
-2. **Github**
+
+2.proyek open source
+ -Git adalah tools yang bersifat open source, sehingga dapat digunakan utuk membuat perangkat lunak open source.
+
+
+3.Membantu organisir 
+ - Dengan Git,kamu bisa menyimpan proyek ke folder dalam bentuk,v1,v2,v3 dan memiliki satu proyek dengan menggunkan database khusus yang berisi semua versi file.
+
+
+4.Sebagai platform fleksibilitas 
+ -Karena dapat digunakan sebagai solusi untuk hosting pada semua proyek.
+
+
+5.Menjadi backup 
+ -jika terjadi kesalahan atau masalah dalam mengembangkan, Git dapat dengan mudah mengembalikan ke dalam versi sebelumnya.
+
+3. **Github**
 
     A.jelaskan apa itu Github?
 
