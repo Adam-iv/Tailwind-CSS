@@ -37,7 +37,7 @@ Git adalah sebuah VCS terdistribusi untuk mengelola perubahan file atau reposito
 3.Membantu organisir 
 
 
- - Dengan Git,kamu bisa menyimpan proyek ke folder dalam bentuk,v1,v2,v3 dan memiliki satu proyek dengan menggunkan database khusus yang berisi semua versi file.
+-Dengan Git,kamu bisa menyimpan proyek ke folder dalam bentuk,v1,v2,v3 dan memiliki satu proyek dengan menggunkan database khusus yang berisi semua versi file.
 
 
 4.Sebagai platform fleksibilitas 
@@ -50,6 +50,7 @@ Git adalah sebuah VCS terdistribusi untuk mengelola perubahan file atau reposito
 
 
  -jika terjadi kesalahan atau masalah dalam mengembangkan, Git dapat dengan mudah mengembalikan ke dalam versi sebelumnya.
+ 
 
 3. **Github**
    
@@ -60,6 +61,7 @@ Git adalah sebuah VCS terdistribusi untuk mengelola perubahan file atau reposito
 Github adalah sebuah platform online berbasis web yang digunakan oleh pengembang perangkat lunak untuk menyimpan dan mengelola kode serta mendokumentasikan dan mengontrol perubahannya.
 
    B.Apa saja perintah dasar dari Git
+   
 
 - a) commit: menyimpan perubahan dengan pesan commit.
 - b) branch: fitur yang membuat jalur pengembangan terpisah dari main branch.
@@ -71,6 +73,7 @@ Github adalah sebuah platform online berbasis web yang digunakan oleh pengembang
 
 
   C.Apa fungsi dari Github?
+  
 
 1.kontrol versi kode
 
