@@ -24,8 +24,8 @@ Git adalah sebuah VCS terdistribusi untuk mengelola perubahan file atau reposito
      
 1. untuk berkolaborasi
 
-   
-   -Memanfaatkan Git untuk mengerjakan proyek yang sama(kerja tim).
+
+ -Memanfaatkan Git untuk mengerjakan proyek yang sama(kerja tim).
 
 
 2.proyek open source
@@ -52,7 +52,7 @@ Git adalah sebuah VCS terdistribusi untuk mengelola perubahan file atau reposito
  -jika terjadi kesalahan atau masalah dalam mengembangkan, Git dapat dengan mudah mengembalikan ke dalam versi sebelumnya.
  
 
-3. **Github**
+**Github**
    
 
     A.jelaskan apa itu Github?
