@@ -5,7 +5,7 @@
 2. Alisia Maulidina
 3. Fathurrahman
 4. Wahyu Saputra
-5. Robby Sugaea
+5. Robby sugara
 ---
 # **📌 Penjelasan Mengenai Git&Github**
 ## ✏️ Pengertan Git
